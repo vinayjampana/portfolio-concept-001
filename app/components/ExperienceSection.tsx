@@ -3,19 +3,19 @@ const ExperienceSection = () => {
 		{
 			role: 'Senior Software Engineer',
 			company: 'Tech Corp',
-			period: '2020 - Present',
+			period: '2023 May - Present',
 			highlights: 'Led development of microservices architecture, 40% improvement in system performance',
 		},
 		{
-			role: 'Software Engineer',
-			company: 'Innovation Labs',
-			period: '2017 - 2020',
+			role: 'Seniot Software Engineer',
+			company: 'Sumeru Software',
+			period: '2022 Aug - 2023 Jan',
 			highlights: 'Architected cloud-native applications, mentored junior developers',
 		},
 		{
-			role: 'Full Stack Developer',
-			company: 'StartUp Inc',
-			period: '2015 - 2017',
+			role: 'SDE 1',
+			company: 'Aerchain',
+			period: '2019 July - 2022 Jan',
 			highlights: 'Built scalable web applications using React and Node.js',
 		},
 	];
