@@ -2,7 +2,7 @@ const ExperienceSection = () => {
 	const experiences = [
 		{
 			role: 'Senior Software Engineer',
-			company: 'Tech Corp',
+			company: 'Zotok AI',
 			period: '2023 May - Present',
 			highlights: 'Led development of microservices architecture, 40% improvement in system performance',
 		},
